@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		C3BBA9FF2DEFE3A500E55F70 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = C3BBA9FE2DEFE3A500E55F70 /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		C3BBA9A52DEFE2D800E55F70 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		C3BBA9952DEFE2D600E55F70 /* AircraftQuestion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AircraftQuestion.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3BBA9A42DEFE2D800E55F70 /* AircraftQuestionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AircraftQuestionTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3BBA9AE2DEFE2D800E55F70 /* AircraftQuestionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AircraftQuestionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C3BBA9FE2DEFE3A500E55F70 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -79,6 +84,7 @@
 				C3BBA9A72DEFE2D800E55F70 /* AircraftQuestionTests */,
 				C3BBA9B12DEFE2D800E55F70 /* AircraftQuestionUITests */,
 				C3BBA9962DEFE2D600E55F70 /* Products */,
+				C3BBA9FE2DEFE3A500E55F70 /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C3BBA9FF2DEFE3A500E55F70 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
